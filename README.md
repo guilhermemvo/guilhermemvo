@@ -10,6 +10,7 @@
 
 - 🔭 I’m currently working on [RDStation](https://www.rdstation.com/) ([@ResultadosDigitais](https://github.com/ResultadosDigitais))
 - 🌱 I’m currently learning Go <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="go" width="15" height="15" /> and Python <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="15" height="15" />
+- My [CV](https://docs.google.com/document/d/1Dx7bu7fcbIIChMpa6aq5bH0M02Lz_NX3Gh__7pgydrw)
 
 <!--
 - 👯 I’m looking to collaborate on...
